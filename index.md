@@ -1,5 +1,5 @@
 ---
-title: Salzig1's blog
+title: 
 ---
 
 This blog is just for documenting my progress and projects im building :)
