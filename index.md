@@ -1,7 +1,9 @@
 ---
-title: Welcome to my blog
+title: Salzig1's blog
 ---
 
-# Hello world
-
+This blog is just for documenting my progress and fun projects im building :)
+<!---
 [First post](https://salzig1.github.io/first-post)
+-->
+
